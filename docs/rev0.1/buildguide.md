@@ -1,4 +1,4 @@
-# nowt36lp ビルドガイド
+# nowt36lp rev0.1 ビルドガイド
 
 nowt36lp rev0.1 のビルドガイドです。
 
