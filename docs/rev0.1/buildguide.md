@@ -29,16 +29,17 @@ nowt36lp rev0.1 のビルドガイドです。
 
 ## キットに含まれるもの
 
-| No. | 名前                  | 数量 | 備考                                                                                                                                                                    |
-|-----|-----------------------|------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1   | PCB                   | 1枚  | メインPCB                                                                                                                                                               |
-| 2   | ボトムプレート        | 1枚  | ボトムアクリルプレート                                                                                                                                                  |
-| 3   | ProMicro 保護プレート | 1枚  | ProMicro 保護プレート。                                                                                                                                                 |
-| 4   | リセットスイッチ      | 1個  | タクトスイッチ。<br>[遊舎工房](https://shop.yushakobo.jp/collections/all-keyboard-parts/products/a0800ts-01-1?variant=37665574977697)で購入できます。                       |
-| 5   | M2 スペーサー 8mm     | 4個  | ProMicro保護プレートとボトムプレートを固定するためのスペーサー。<br>[ヒロスギネット](https://www.hirosugi-net.co.jp/shop/c/c10141012/)で購入できます。                      |
-| 6   | M2 ねじ 5mm           | 8個  | スペーサーを固定するネジ。<br>[モノタロウ](https://www.monotaro.com/p/4307/6774/)で購入できます。                                                                           |
-| 7   | ゴム足                | 10個 | すべり止め用のゴム足。<br>[Amazon](https://www.amazon.co.jp/gp/product/B01B4COI8W/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&psc=1)で購入できます。                         |
-| 8   | 両面テープ (5mm幅)    | -    | PCBとボトムプレートを張り合わせるために使用。 <br>[Amazon](https://www.amazon.co.jp/gp/product/B00VFSHS1K/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)で購入できます。 |
+| No. | 名前                  | 数量        | 備考                                                                                                                                                                        |
+|-----|-----------------------|-------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1   | PCB                   | 1枚         | メインPCB                                                                                                                                                                   |
+| 2   | ボトムプレート        | 1枚         | ボトムアクリルプレート                                                                                                                                                      |
+| 3   | ProMicro 保護プレート | 1枚         | ProMicro 保護プレート。                                                                                                                                                     |
+| 4   | リセットスイッチ      | 1個         | タクトスイッチ。<br>[遊舎工房](https://shop.yushakobo.jp/collections/all-keyboard-parts/products/a0800ts-01-1?variant=37665574977697)で購入できます。                       |
+| 5   | ダイオード            | 36個 + 予備 | [遊舎工房](https://shop.yushakobo.jp/collections/all-keyboard-parts/products/a0800di-02-100)で購入できます。                                                                |
+| 6   | M2 スペーサー 8mm     | 4個         | ProMicro保護プレートとボトムプレートを固定するためのスペーサー。<br>[ヒロスギネット](https://www.hirosugi-net.co.jp/shop/c/c10141012/)で購入できます。                      |
+| 7   | M2 ねじ 5mm           | 8個         | スペーサーを固定するネジ。<br>[モノタロウ](https://www.monotaro.com/p/4307/6774/)で購入できます。                                                                           |
+| 8   | ゴム足                | 10個        | すべり止め用のゴム足。<br>[Amazon](https://www.amazon.co.jp/gp/product/B01B4COI8W/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&psc=1)で購入できます。                         |
+| 9   | 両面テープ (5mm幅)    | -           | PCBとボトムプレートを張り合わせるために使用。 <br>[Amazon](https://www.amazon.co.jp/gp/product/B00VFSHS1K/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)で購入できます。 |
 
 ## キット以外に必要なもの
 
