@@ -68,7 +68,9 @@ nowt36lp rev0.1 のビルドガイドです。
 
 ### 1. ファームウェアの書き込み
 
-[QMK](https://github.com/tamago324/qmk_firmware/tree/nowt36/keyboards/nowt36) を使用して、ファームウェアを書き込みます。
+QMK を使用して、ファームウェアを書き込みます。
+
+ファアームウェアは[こちら](https://github.com/tamago324/qmk_firmware/tree/nowt36/keyboards/tamago324/nowt36lp)
 
 > TODO: REMAP での書き込みに対応する
 
